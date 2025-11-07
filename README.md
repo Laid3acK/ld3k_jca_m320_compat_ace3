@@ -1,4 +1,4 @@
-Ace3 compatibility for the Arma 3 weapon mod "JCA - M320 LRR Enhanced Patch" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2400196052)
+ ACE3 ballistics compatibility for the Arma 3 weapon mod "JCA - M320 LRR Enhanced Patch" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2400196052)
 - Can be played with or without CBA and ACE3.
 - Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
